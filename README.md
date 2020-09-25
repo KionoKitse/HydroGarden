@@ -10,6 +10,7 @@ P04_00_00 HydroGarden
  * Build tower
  * Test electronics
  * Get netpots or some other idea
+ * Grow medium?
  * Decide on what to grow
  * Get nutrients
  
